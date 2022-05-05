@@ -1,0 +1,9 @@
+first create repository and copy the link 
+open the gitbash
+git init
+git cd
+git clone
+vi file1.txt
+git add file1.txt
+git commit -m "first commit"
+git push
