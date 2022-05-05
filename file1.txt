@@ -1,0 +1,7 @@
+print("enter any values")
+a=int(input())
+b=int(input())
+max a:
+if b<max
+max b:
+print("maximum value",max)
